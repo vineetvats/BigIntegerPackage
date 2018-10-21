@@ -2,9 +2,10 @@ package aab180004;
 
 /**
  * Num class which stores and performs arithmetic operations on arbitrarily large integers
+ * @author Vineet Vats - VXV180008
  * @author Achyut Arun Bhandiwad - AAB180004
  * @author Nirbhay Sibal - NXS180002
- * @author Vineet Vats - VXV180008
+ 
  * @version 1.80
  * @since 1.0
  */
